@@ -1,0 +1,12 @@
+<suite name= "MySuiteAppium">
+
+<test name= "MyTestAppium">
+
+ <classes>
+ 
+ <class name = "com.qaminds.testget_apptive.IntroductionTest"></class>
+ </classes>
+
+</test>
+
+</suite>
